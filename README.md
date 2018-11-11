@@ -1,4 +1,4 @@
-Pyber Rideshare Analysis Obersations
+Pyber Rideshare Analysis Observations
 
 Of the drivers located in urban cities (80.9%), they make up 68.4% of rides and 62.7% in fares in urban cities. This implies the urban market is potentially oversaturated. More analysis of the previous years data may be able to uncover if this is trending up which points to driver oversaturation in urban cities, or trending down which implies the market for drivers is correcting itself.
 

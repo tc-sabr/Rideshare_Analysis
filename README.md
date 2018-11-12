@@ -1,3 +1,17 @@
+#Rideshare_Analysis
+
+Create a Bubble Plot that showcases the relationship between four key variables:
+  - Average Fare ($) Per City
+  - Total Number of Rides Per City
+  - Total Number of Drivers Per City
+  - City Type (Urban, Suburban, Rural)
+  
+Create three pie charts showing:
+  - % of Total Fares by City Type
+  - % of Total Rides by City Type
+  - % of Total Drivers by City Type
+
+
 Pyber Rideshare Analysis Observations
 
 Of the drivers located in urban cities (80.9%), they make up 68.4% of rides and 62.7% in fares in urban cities. This implies the urban market is potentially oversaturated. More analysis of the previous years data may be able to uncover if this is trending up which points to driver oversaturation in urban cities, or trending down which implies the market for drivers is correcting itself.
